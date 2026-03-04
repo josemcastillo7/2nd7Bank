@@ -9,7 +9,7 @@ so the general idea is to use a loop to iterate through the input data, calculat
 it might look like this
 
 ```pseudocode
-tax_rate = 0.2 
+tax_rate = 0.2
 for each employee in input data:
     gross_pay = hours_worked * hourly_rate
     taxes = gross_pay * tax_rate
